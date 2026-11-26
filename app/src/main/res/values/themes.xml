@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.GeneratorManager" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#073B42</item>
+        <item name="android:navigationBarColor">#073B42</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+</resources>

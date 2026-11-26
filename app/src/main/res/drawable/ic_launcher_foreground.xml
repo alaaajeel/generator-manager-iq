@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- generator body -->
+    <path android:fillColor="#F4BD45" android:pathData="M30,44h48a4,4 0 0 1 4,4v22a4,4 0 0 1 -4,4h-48a4,4 0 0 1 -4,-4v-22a4,4 0 0 1 4,-4z"/>
+    <!-- grill lines -->
+    <path android:fillColor="#073B42" android:pathData="M33,50h16v3h-16zM33,56h16v3h-16zM33,62h16v3h-16z"/>
+    <!-- wheels -->
+    <path android:fillColor="#F4BD45" android:pathData="M36,80m-4,0a4,4 0 1 0 8,0a4,4 0 1 0 -8,0"/>
+    <path android:fillColor="#F4BD45" android:pathData="M72,80m-4,0a4,4 0 1 0 8,0a4,4 0 1 0 -8,0"/>
+    <!-- lightning -->
+    <path android:fillColor="#FFFFFF" android:strokeColor="#073B42" android:strokeWidth="2"
+        android:pathData="M68,24l-14,24h9l-6,20l16,-27h-9z"/>
+</vector>
